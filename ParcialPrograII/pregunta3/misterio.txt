@@ -1,0 +1,8 @@
+
+-7 9 6 0xe9dc20                                                           
+  
+5 -7 2 0x7fffaa1f705c 
+                                                      
+5 0xe9dc20 9 -3 -7 0x7fffaa1f7054 5
+                                         
+0x7fffaa1f70540x7fffaa1f7060 0x7fffaa1f7058 0x7fffaa1f705c 0x7fffaa1f7068 

@@ -1,0 +1,21 @@
+-Para crear el directorio Marvel dentro de algun directorio con:
+	mkdir Marvel
+-luego dentro del directorio Marvel crear los archivos:
+	touch ironman.txt
+	touch thor.md	
+	touch capitanamerica.sh
+	panteranegra.cpp
+	spiderman.ino
+	starlord.png
+	drstrange.jpg
+
+-luego crear un directorio llamado Thanos dentro de Marvel:
+ 	mkdir Thanos
+-crear un script snap.sh que elimine los archivos panteranegra.cpp, spiderman.ino, starlord.png,drstrange.jpg:
+	touch snap.sh
+
+-programa snap.sh
+
+!#/bin/bash
+
+

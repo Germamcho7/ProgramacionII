@@ -1,0 +1,11 @@
+-lenguaje compilado es cuedo se tiene que hacer un proceso de conversion de datos a lenguaje maquina para que asi lo pueda interpretar.
+-lenguaje interpretado es cuando al escribir un codigo la maquina la interpreta sin necesidad de compilar, en si lo que hace la maquina es interpretar el texto.
+
+---------------------
+PROCESO DE COMPILACION
+---------------------
+-preprocesador: ordena y da las instrucciones necesarias para que el programa funcione correctamente.
+-compilador: integra todos los atributos del programa para luego ser ensamblado.
+-ensamblador: contruye el programa ya procesado.
+-linker: enlaza el programa con algun interprete
+-ejecutable: es el programa listo para ser ejecutado por el usuario
